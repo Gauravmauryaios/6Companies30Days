@@ -15,18 +15,18 @@ Why wait to start- start it today!
 
 @Challenge Company 1 : Microsoft-
 
-1.You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.Click Here
-2.Combination Sum with a twist.Click Here
-3.bulls and Cows Click Here
-4.You are given an integer array nums of length n. Return maximum length of Rotation Function.Click Here
-5.Largest Divisible Subset.Click Here
-6.How to find a perfect Rectangle.Click Here
-7.Scheduling a Course.Click Here
-8.Profitable Path in a Tree.Click Here
-9.Number of Pairs satisfying Inequality.Click Here
-10.Shortest Unsorted continuous Subarray.Click Here
-11.Number of ways to arrive at a Destination.Click Here
-12.Longest Happy Prefix.Click Here
-13.Seat Arrangement in a SpiceJet Problem - Online OA February ‘22. Click Here
-14.Deletions to make an array divisible. @Click Here
-15.Substrings containing all three Characters @Click Here
+You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.Click Here
+#Combination Sum with a twist.Click Here
+bulls and Cows Click Here
+You are given an integer array nums of length n. Return maximum length of Rotation Function.Click Here
+Largest Divisible Subset.Click Here
+How to find a perfect Rectangle.Click Here
+Scheduling a Course.Click Here
+Profitable Path in a Tree.Click Here
+Number of Pairs satisfying Inequality.Click Here
+Shortest Unsorted continuous Subarray.Click Here
+Number of ways to arrive at a Destination.Click Here
+Longest Happy Prefix.Click Here
+Seat Arrangement in a SpiceJet Problem - Online OA February ‘22. Click Here
+Deletions to make an array divisible. @Click Here
+Substrings containing all three Characters @Click Here
