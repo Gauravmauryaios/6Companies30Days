@@ -1,7 +1,7 @@
 # 6Companies30Days
 ### A Challenge to make sure you start with your goals today , don’t procrastinate and don’t let your college decide your future!
 
-[**Rules**](https://github.com/skjeswani2001/6Companies30Days/edit/main/README.md#rules) | [**Microsoft**](https://github.com/skjeswani2001/6Companies30Days/edit/main/README.md#challenge-company-1--microsoft)
+[**Rules**](https://github.com/Gauravmauryaios/6Companies30Days/edit/main/README.md#rules) | [**Microsoft**](https://github.com/Gauravmauryaios/6Companies30Days/edit/main/README.md#challenge-company-1--microsoft)
 
 
 
@@ -19,7 +19,7 @@
 
 
 ## Challenge Company 1 : **Microsoft**
-- You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.[Click Here](https://github.com/skjeswani2001/6Companies30Days/blob/main/MS:01.md)
+- You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.[Click Here](https://github.com/Gauravmauryaios/6Companies30Days/blob/main/MS:01.md)
 - Combination Sum with a twist.[Click Here]()
 - ulls and Cows [Click Here]()
 - You are given an integer array nums of length n. Return maximum length of Rotation Function.[Click Here]()
